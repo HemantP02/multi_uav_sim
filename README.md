@@ -126,6 +126,11 @@ multi_uav_sim/
 └── .gitignore              # Ignored files
 ```
 
+### Video Demonstration
+[![Watch the video demonstration](https://img.youtube.com/vi/8XG7jSVdE8o/0.jpg)](https://www.youtube.com/watch?v=8XG7jSVdE8o)
+
+[Click here to watch the video directly on YouTube](https://www.youtube.com/watch?v=8XG7jSVdE8o)
+
 ---
 
 ## Contribution Guidelines
