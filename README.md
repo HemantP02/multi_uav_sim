@@ -107,7 +107,7 @@ To modify the drone trajectories:
 
 ## Repository Structure
 ```plaintext
-multi_drone_control/
+multi_uav_sim/
 ├── README.md               # Project documentation
 ├── scripts/                # Bash and C++ scripts
 │   ├── run_simulation.sh   # Script to automate simulation setup
